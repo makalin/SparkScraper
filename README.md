@@ -208,3 +208,5 @@ Feel free to fork, submit issues, or send pull requests! Ideas for enhancements:
 
 ## License
 MIT License - See [LICENSE](LICENSE) for details.
+
+Ignite Your Next Big Idea with SparkScraper!
